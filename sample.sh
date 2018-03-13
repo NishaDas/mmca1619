@@ -1,4 +1,5 @@
 printf "
+Enter your choice
 1) Read your name and display it. 
 2) Print working directory.
 3) Create a directory of your name  
